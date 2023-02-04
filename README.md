@@ -1,7 +1,13 @@
-# Tauri + Svelte + Typescript
+# Carbeditor
 
-This template should help get you started developing with Tauri, Svelte and TypeScript in Vite.
+A basic text editor written using Svelte, Svelte Carbon Components and Icons, Tiptap, and Tauri.
 
-## Recommended IDE Setup
+## Links to resources.
 
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+[Svelte](https://svelte.dev)
+
+[Tauri](https://tauri.app)
+
+[Carbon Components Svelte](https://github.com/carbon-design-system/carbon-components-svelte)
+
+[Carbon Icons Svelte](https://github.com/carbon-design-system/carbon-icons-svelte)

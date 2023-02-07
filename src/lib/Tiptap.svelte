@@ -29,9 +29,7 @@
     })
 
     function handleClick() {
-        if (editor.isEmpty) {
-            editor.commands.focus('start');
-        }
+        editor.commands.focus();
     }
 </script>
 
@@ -48,5 +46,6 @@
         border-style: solid;
         border-radius: 1rem;
         padding: 1rem;
+        cursor: text;
     }
 </style>
